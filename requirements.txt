@@ -1,0 +1,8 @@
+torch
+numpy
+scikit-learn
+scikit-image
+scipy
+trimesh
+pysdf
+matplotlib
